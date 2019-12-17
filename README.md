@@ -19,7 +19,7 @@ https://github.com/leochuan
 
 ## EDUCATION
 
-**China JIliang University**     **(Sep 2012 ~ JUNE 2016) **  
+**China JIliang University  (Sep 2012 ~ JUNE 2016)**  
 
 Bachelor degree of Computer Science.
 
@@ -27,7 +27,7 @@ Bachelor degree of Computer Science.
 
 ## EXPERIENCE
 
-**SouChe,  Android Developer**  **(JAN 2017 ~ Current)**
+**SouChe,  Android Developer  (JAN 2017 ~ Current)**
 
 * Designed and built the automated testing framework which based on Robot Framework, Also built a vscode extension for supporting IDE-like user experience.
 * Designed and built a user-friendly CI platform which powered 831 projects of our company.
